@@ -9,5 +9,9 @@ public class Person {
     private String name;
     private String address;
     private String email;
+    private String test1;
+    private String test2;
     private String test3;
+
+
 }
