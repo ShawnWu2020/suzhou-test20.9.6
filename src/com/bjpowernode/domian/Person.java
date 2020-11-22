@@ -9,6 +9,5 @@ public class Person {
     private String name;
     private String address;
     private String email;
-    private Integer age;
-    private Integer age17;
+    private String test;
 }
