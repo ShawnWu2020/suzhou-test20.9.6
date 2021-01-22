@@ -12,6 +12,8 @@ public class Person {
     private String test1;
     private String test8;
     private String test3;
+    private String test31;
+    private String test32;
     private String test4;
 
     private String test6;
