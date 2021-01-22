@@ -23,5 +23,6 @@ public class Person {
     private String test5;
 
     private String test7;
+    private String test71;
 
 }
