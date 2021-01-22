@@ -13,6 +13,7 @@ public class Person {
     private String test2;
     private String test3;
     private String test4;
+    private String test6;
 
 
 }
