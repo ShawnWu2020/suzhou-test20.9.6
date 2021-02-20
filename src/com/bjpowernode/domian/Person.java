@@ -25,6 +25,8 @@ public class Person {
     private String test7;
     private String test71;
     private String test72;
-	private String test74;
+    private String test74;
+    private String test75;
+    
 
 }
