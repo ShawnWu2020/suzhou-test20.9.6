@@ -7,5 +7,5 @@ package com.bjpowernode.domian;
  * @author:Beck
  * @date:2021-05-07 17:45
  */
-public class Person2 {
+public class  Person2 {
 }
