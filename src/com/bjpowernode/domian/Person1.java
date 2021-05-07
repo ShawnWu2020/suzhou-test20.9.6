@@ -4,7 +4,7 @@ package com.bjpowernode.domian;
  * @author Beck
  * @date 2020/9/6 0006  14:24
  */
-public class Person {
+public class Person1 {
 //都是push :当异行冲突时提交会自动合并，但是同行冲突则需要merge或者在提示冲突时cancel后再pull去手动修改再add-commit-push。
 //当改了后 pull,则会提示有冲突不可提交，要么按照提示，将冲突部分修改和上一版本一样，再pull。要么直接commit--再push,然后调整冲突
     private String id;
